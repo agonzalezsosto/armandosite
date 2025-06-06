@@ -1,0 +1,1 @@
+import{t as e,a}from"../chunks/bQOVS7Tb.js";import"../chunks/BzQ9D2y9.js";import{n as m}from"../chunks/DvCs0LKH.js";function s(t){m();var o=e("Hello! Welcome to Armando's website.");a(t,o)}export{s as component};
