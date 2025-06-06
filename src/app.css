@@ -1,3 +1,23 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+
+h1 {
+	@apply p-2 text-2xl;
+}
+
+h2 {
+	@apply p-2 text-xl;
+}
+
+p {
+	@apply p-2;
+}
+
+a {
+	@apply underline;
+}
+
+ul {
+	@apply p-4;
+}
