@@ -1,0 +1,1 @@
+import{f as m,a as r}from"../chunks/Dyc8i-fD.js";import"../chunks/BzQ9D2y9.js";import{n as t}from"../chunks/DvCs0LKH.js";var s=m('<h1>armando gonzalez sosto</h1> <p>Listen to some of my <a href="music">music</a>.</p> <p>Look at some of my <a href="visuals">visual work</a>.</p> <p>Read <a href="about">about</a>.</p>',1);function n(o){var a=s();t(6),r(o,a)}export{n as component};
