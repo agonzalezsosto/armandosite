@@ -5,6 +5,9 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
 	preprocess: [vitePreprocess(), mdsvex()],
 	kit: {
+		paths: {
+			base: '/armandosite'
+		},
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
